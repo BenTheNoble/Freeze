@@ -1,0 +1,9 @@
+name: MZFreeze
+version: 1.0
+main: me.xbenz.Screenshare
+author: xBenz
+
+commands: 
+  ss:
+    usage: /<command>
+    description: Freezes the target player.
